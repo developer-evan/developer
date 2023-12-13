@@ -1,15 +1,25 @@
-<h2 align="center">👋 Hello! I'm Athul.</h2>
+<h2 align="center">👋 Hello! I'm Evans .</h2>
 <p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="https://developer-evan-profile.vercel.app/">Blog</a> 
+<!--   <a href="https://twitter.com/athulcajay">Twitter</a> --> <br>
+  
+  <span> •I'm a Frontend Web & Mobile Developer</span>
 </p>
 
+-------
 
-- 🔭 I’m currently working at [Frappe](https://frappe.io) in the DevOps Team
-- 🌱 I’m currently learning more on Observability and better DevOps Practices
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+
+🌱 I’m a Front End Engineer and Software Engineer with a focus on creating responsive and highly
+interactive web/mobile applications. I am well versed in best practices for front end development
+using JavaScript (React, Vanilla) and Mobile Development (React Native) and User Interaction. I
+have built frontend projects that aim at changing the world.
+
+-------
+
+
+💬 Ask me about Git and JavaScript
+
+
 
 -------
 
@@ -25,15 +35,5 @@
 
 -------
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-Python   20 mins         █████████████████▓░░░░░░░   71.02 %
-JSON     8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-```
-
-<!--END_SECTION:waka-->
 
 -------
